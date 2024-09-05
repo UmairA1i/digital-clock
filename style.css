@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #191919;
+    color: white;
+}
+
+#clock {
+    font-size: 64px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+#date {
+    font-size: 18px;
+    padding: 20px;
+}
+ 
+#timezone {
+    font-size: 14px;
+}
